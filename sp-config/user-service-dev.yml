@@ -5,10 +5,10 @@ spring:
   application:
     name: user-service
     
-    #12
 server:
   port: 8101
 
+#hhh
 eureka:
   client:
     service-url:

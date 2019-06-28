@@ -1,11 +1,4 @@
 spring:
-  cloud:
-    config:
-      discovery:
-        enabled: true
-        service-id: config-server
-      name: zuul
-      profile: dev
   application:
     name: zuul
     

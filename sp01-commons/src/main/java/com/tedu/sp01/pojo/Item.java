@@ -11,7 +11,4 @@ public class Item {
 	private Integer id;
 	private String name;
 	private Integer number;
-
-//222222222
-	//哈哈哈
 }
